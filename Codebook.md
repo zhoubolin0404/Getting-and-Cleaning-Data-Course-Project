@@ -1,6 +1,11 @@
 "WALKING" = 1; 
+
 "WALKING UPSTAIRS" = 2; 
+
 "WALKING_DOWNSTAIRS" = 3; 
+
 "SITTING" = 4; 
+
 "STANDING" = 5; 
+
 "LAYING" = 6
